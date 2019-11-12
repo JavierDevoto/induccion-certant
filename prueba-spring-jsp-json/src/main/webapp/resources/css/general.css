@@ -1,0 +1,57 @@
+.flex-container {
+	display: flex; 
+	flex-direction: column;
+	max-width: 20rem;
+	border: 3px;
+	border-color: black;
+}
+
+.contenedor-general {
+	display: flex; 
+	flex-direction: column;
+	width: 100%;
+	background-color: gray;
+}
+
+.carta {
+	width: 600px;
+}
+
+body{
+	background-color: gray;
+}
+
+.carta-contenedor {
+	margin: 15px;
+}
+
+.titulo {
+	text-align: center;
+}
+
+.poco-margen-inferior {
+	margin-bottom: 0;
+}
+
+.alto-estandar {
+	height: 58px;
+}
+
+.alto-estandar2 {
+	height: 62px;
+}
+
+.boton-crear-usuario {
+	height: 50px;
+	width: 300px;
+}
+
+.flex-row {
+	display: flex;
+	flex-direction: row;
+}
+
+.fecha-nacimiento-div {    
+	padding: 2px;
+    color: #00000061;
+}
